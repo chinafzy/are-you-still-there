@@ -1,3 +1,5 @@
+"use client"; 
+
 import React, { useState, useEffect, useMemo } from 'react';
 import { 
   ShieldCheck, Settings, X, Leaf, Moon, Sun, Sunrise, CloudUpload, Eye
